@@ -1,0 +1,19 @@
+{
+  "name": "datetime-local-polyfill",
+  "version": "1.0.0",
+  "description": "This is a polyfill for implementing the HTML5 `<input type=\"datetime-local\">` element in browsers that do not currently support it.",
+  "main": "datetime-local-polyfill.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taoqf/datetime-local-polyfill.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taoqf/datetime-local-polyfill/issues"
+  },
+  "homepage": "https://github.com/taoqf/datetime-local-polyfill#readme"
+}
